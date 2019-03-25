@@ -1,4 +1,27 @@
-# vue-exam
-Fragmentation　Knowledge accmulation
+# demo
 
-页面 ThreeLeveldropDown.vue 实现了一个全国省市级的三级联动效果
+> it is a vue demo of myself
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
