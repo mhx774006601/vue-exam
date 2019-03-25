@@ -24,4 +24,4 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+项目中的页面　/components/ThreeLeveldropDown.vue 实现了一个省市县三级联动的菜单效果。下载项目后请自行安装node_modules
